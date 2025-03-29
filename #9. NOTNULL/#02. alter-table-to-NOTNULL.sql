@@ -1,0 +1,2 @@
+ALTER TABLE products 
+MODIFY product_name VARCHAR(45) UNIQUE NOT NULL;
