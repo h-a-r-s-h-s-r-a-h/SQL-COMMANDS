@@ -1,0 +1,1 @@
+DROP PROCEDURE find_employee;
