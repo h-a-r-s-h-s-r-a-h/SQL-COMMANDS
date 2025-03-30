@@ -1,0 +1,1 @@
+SELECT AVG(hourly_pay) as "average" FROM employees;
